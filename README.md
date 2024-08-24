@@ -1,0 +1,1 @@
+A work timer that logs into database daily streaks and creates a graph as well.
